@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Quarantales`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Sezayi Arslan`,
+      summary: `Dag tot dag verhalen rondom de corona crisis`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Dag tot dag verhalen rondom de corona crisis`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `sezayi`,
     },
   },
   plugins: [
@@ -64,7 +64,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
         icon: `content/assets/gatsby-icon.png`,
       },

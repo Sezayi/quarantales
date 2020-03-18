@@ -20,7 +20,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             textDecoration: `none`,
-            color: `inherit`,
+            color: `#000000`,
           }}
           to={`/`}
         >
@@ -40,7 +40,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             textDecoration: `none`,
-            color: `inherit`,
+            color: `#7E00FF`,
           }}
           to={`/`}
         >
@@ -61,9 +61,15 @@ const Layout = ({ location, title, children }) => {
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()}, Built with
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        Vragen over dit blog{" "}
+        <a
+          style={{
+            color: `#000000`,
+          }}
+          href="mailto:arslan.sezayi@gmail.com"
+        >
+          mail mij
+        </a>
       </footer>
     </div>
   )
