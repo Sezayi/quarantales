@@ -40,7 +40,7 @@ const Layout = ({ location, title, children }) => {
           style={{
             boxShadow: `none`,
             textDecoration: `none`,
-            color: `#7E00FF`,
+            color: `#000000`,
           }}
           to={`/`}
         >
