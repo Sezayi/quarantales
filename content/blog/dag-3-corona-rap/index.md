@@ -1,7 +1,7 @@
 ---
 title: Dag 3 - Corona rap
 date: "2020-03-18T22:40:32.169Z"
-description: Ziekelijke rap
+description: Ziekelijke rap en zelfreflectie
 ---
 
 Het thuiszitten begint me toch wel een beetje te vervelen. Ik hou van sporten en ben vaak meerdere avonden in de week te vinden bij de voetbal, tafeltennis, gym of in het park aan het hardlopen. Ik heb mezelf een nieuwe ochtendroutine aangemeten. Ik sta op om 07:00 en start de dag met wat lichamelijke oefeningen die ik voorbij zag komen op Arie Boomsma's Instagram. Arie had een filmpje opgenomen waarin hij fanatiek wc rollen tussen pushups door aan het verplaatsen was. 
