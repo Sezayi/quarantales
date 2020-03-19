@@ -56,20 +56,13 @@ const Layout = ({ location, title, children }) => {
         marginRight: `auto`,
         maxWidth: rhythm(24),
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
+        color: `#000000`
       }}
     >
       <header>{header}</header>
       <main>{children}</main>
       <footer>
-        Vragen over dit blog{" "}
-        <a
-          style={{
-            color: `#000000`,
-          }}
-          href="mailto:arslan.sezayi@gmail.com"
-        >
-          mail mij
-        </a>
+       
       </footer>
     </div>
   )
