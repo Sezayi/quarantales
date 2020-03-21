@@ -1,6 +1,6 @@
 ---
 title: Dag 4 - De 15.000 euro iPhone
-date: "2020-03-18T22:40:32.169Z"
+date: "2020-03-19T22:40:32.169Z"
 description: Globalisering vs deglobalisering
 ---
 
