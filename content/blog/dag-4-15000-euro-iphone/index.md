@@ -12,7 +12,7 @@ Mijn hoop gaat echter uit naar een tegenovergestelde richting waarin we juist zi
 
 Ook in het zoeken van een vaccin zijn verschillende laboratoria en universiteiten hard bezig om in een versneld tempo tot een oplossing te komen. Ik las dat er op verschillende plekken al antistoffen waren ontwikkelt die het virus zouden kunnen remmen. En dat er steeds meer onderzoeksresultaten vanuit China binnenkomen die ons kunnen helpen het virus te bestrijden.  
 
-Een goed voorbeeld overigens van een negatief effect op deglobalisering is de productie van mobiele telefoons. Een berekening wijst uit dat als de iPhone volledig in eigen land geproduceerd zou worden deze tussen de 10.000 en 15.000 euro zou gaan kosten. Alleen de allerrijkste zouden dan nog een smartphone kunnen hebben. 
+Een goed voorbeeld overigens van een negatief effect op deglobalisering is de productie van mobiele telefoons. Een berekening wijst uit dat als de iPhone volledig in eigen land (lees Amerika) geproduceerd zou worden deze tussen de 10.000 en 15.000 euro zou gaan kosten. Alleen de allerrijkste zouden dan nog een smartphone kunnen hebben. 
 
 
 
